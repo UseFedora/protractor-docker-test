@@ -1,0 +1,4 @@
+protractor:
+  build:
+    image: protractor
+    dockerfile_path: Dockerfile

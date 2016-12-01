@@ -1,0 +1,16 @@
+{
+  "name": "fedora",
+  "version": "0.0.0",
+  "repository": "https://github.com/UseFedora/fedora",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "engines": {
+    "node": "6.9.1"
+  },
+  "cache_directories": [
+  ]
+}

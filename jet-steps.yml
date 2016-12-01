@@ -1,0 +1,10 @@
+
+- type: parallel
+  steps:
+    - name: e2e
+      service: protractor
+      command: /usr/bin/supervisord -n -c /etc/supervisor/supervisor.conf
+  # - name: Ruby Unit tests
+  #   service: app
+  #   command: scripts/ci rubyunit
+
